@@ -1,0 +1,53 @@
+.contenedor {
+    width:80%;
+    max-width: 1200px;
+}
+
+img {
+    width:55%;
+    height: auto;
+}
+.imagenes {
+    text-align: center;
+}
+.fotos {
+    border: 1.5px solid black;
+}
+.iconos {
+    width: 45px;
+    vertical-align: middle;
+}
+.icono2 {
+    width: 45px;
+    text-shadow: #333;
+}
+
+/* Titulos y cuerpo de la pagina*/
+
+h1 { 
+    color:black;
+    font-size: 50px;
+    text-decoration-line:underline;
+    background-color:rgb(80, 189, 226);
+    border: 0.5px solid rgb(81, 79, 79);
+    border-radius: 7px/8px;
+    box-shadow: -3px -5px rgb(119, 13, 218);
+    text-shadow: 1px -2px 20px rgb(119, 13, 218);
+}
+h2 { 
+    color:black;
+    font-size: 35px;
+    text-decoration-line:underline;
+    text-align: center;
+    background-color:rgb(80, 189, 226);
+    border: 0.5px solid rgb(81, 79, 79);
+    border-radius: 7px/8px;
+    box-shadow: -3px -5px rgb(119, 13, 218);
+    text-shadow: 1px -2px 20px rgb(119, 13, 218);
+}
+
+main {
+    width: 110%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
