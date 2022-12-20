@@ -1,6 +1,7 @@
 import "../inicio/InicioComponent.css"
 export const InicioColombia = () =>{
     return(
+    <div className='contenedor'>
     <main>
 
     <h1><img className="iconos" src="images/flechaderecha.svg" alt="" /> 10 Lugares que debes conocer en Colombia<img className="iconos" src="images/flechaizquierda.svg" alt=""/></h1>
@@ -182,5 +183,6 @@ export const InicioColombia = () =>{
     </p>
 
     </main>
+    </div>
     )
 }

@@ -20,11 +20,11 @@ export const HeaderComponent = () => {
             </li>
 
             <li>
-                <a href="chile.html">Chile</a>
+                <Link to="/chile">Chile</Link>
             </li>
 
             <li>
-                <a href="argentina.html">Argentina</a>
+                <Link to="/argentina">Argentina</Link>
             </li>
 
         </ul>

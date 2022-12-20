@@ -1,0 +1,19 @@
+footer {
+    width: 121%;
+    height:auto;
+    margin:2%;
+    background-color: powderblue;
+    border: 1px solid black;
+}
+footer li {
+padding: 5px;
+}
+
+/* Formulario */
+
+center {
+ width:100%;
+ height:auto;
+}
+
+
